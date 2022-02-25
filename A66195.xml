@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation. William R. Whereas in and by one Act made and passed in the last session of Parliament (intituled, An Act for granting an aid to His Majesty, as well by a land tax, as by several subsidies and other duties payable for one year) ...</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66195</idno>
+            <idno type="STC">Wing W2441</idno>
+            <idno type="STC">ESTC R221026</idno>
+            <idno type="EEBO-CITATION">99832409</idno>
+            <idno type="PROQUEST">99832409</idno>
+            <idno type="VID">36882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36882)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2142:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation. William R. Whereas in and by one Act made and passed in the last session of Parliament (intituled, An Act for granting an aid to His Majesty, as well by a land tax, as by several subsidies and other duties payable for one year) ...</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, and the executrix of Thomas Newcomb, deceas'd; printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Recites the provisions of acts of the last session of Parliament by which the issue of Exchequer Bills for £1,500,000, bearing interest 5d. per £100 per diem, is regulated.</note>
+                  <note>At end: Given at Our Court at Kensington the three and twentieth day of April, 1697. In the ninth year of Our Reign.</note>
+                  <note>In this edition, the imprint ends: "Printers".</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of Exchequer --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:36882:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:36882:2"/>
+            <head>
+               <figure>
+                  <head>W R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>By the King, A PROCLAMATION.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>WHereas in and by One Act Made and Paſſed in the laſt Seſſion of Parliament (Intituled, <hi>An Act for Granting an Aid to His Majeſty, as well by a Land Tax, as by ſeveral Subſidies and other Duties payable for One Year)</hi> It was (amongſt other things) Enacted, That it ſhould and might be Lawful to and for the Commiſſioners of Our Treaſury, or any Three of them, to cauſe Bills to be made forth at the Receipt of Exchequer, in ſuch Manner and Form as they ſhould appoint, for any Sum or Sums of Money, not exceeding One Million five hundred thouſand Pounds, by Virtue of that Act, and to Iſſue the ſame to the uſes of the War, in ſuch Proportions as they ſhould think fit, and that the ſaid Bills ſhould be Current to the Receivers or Collectors of any Aids, Taxes or Supplies thereby Granted, or that ſhould be Granted for the Service of the War, for the Year, One thouſand ſix hundred ninety ſeven (Except for the Aid of Three Shillings in the Pound) And whereas by One other Act alſo Made and Paſſed in the ſaid laſt Seſſion of Parliament (Intituled, <hi>An Act for ma<g ref="char:EOLhyphen"/>king good the Deficiency of the ſeveral Funds therein mentioned, and for Enlarging the Capital Stock of the Bank of <hi>England,</hi> and for Raiſing the Publick Credit,</hi> to the end the ſaid Bills ſo Authorized to be Iſſued might be of more general Vſe, as well for the Occaſions of the War, as for the Publick Commerce and Trade, It is (amongſt other things) Enacted, That the ſaid Bills ſo Authorized to be Iſſued, ſhall be Received and Taken, not only by Receivers or Collectors of the Taxes or Supplies Granted, or to be Granted for the War, for the Year, One thouſand ſix hundred ninety ſeven, but ſhall alſo Paſs and be Current to all and every the Commiſſioners, Receivers or Collectors of any Revenue, Aid, Tax or Supply whatſoever Grant<g ref="char:EOLhyphen"/>ed, or that ſhould or might be Granted, during the ſaid laſt Seſſion of Parliament, either for the War, or any other uſe, and alſo at the Receipt of the Exchequer, from the ſaid Commiſſioners, Receivers or Collectors, or from any other Perſon or Perſons whatſoever making any Payments there to Vs upon any Account whatſoever. And to the end that all Perſons might be the more willing to Accept and Receive the ſaid Bills in all manner of Payments, It is thereby alſo Enacted, That there ſhall be annexed unto, attend and go along with the ſaid Bills, an Intereſt after the Rate of Five Pence a Day for every One hundred Pounds contained therein, and ſo Proportionably for a greater or leſſer Sum, which ſaid Intereſt ſhall be Paid or Allowed to the Perſon who is laſt Poſſeſſed thereof, to the Day he Pays the ſame into the Exchequer, or to any Receivers or Collectors, for any Aids, Taxes, Revenues or Supplies whatſoever. And that no Intereſt might be Allowed on the ſaid Bills for any longer time than the ſame ſhould be Vnanſwered unto Vs, It is En<g ref="char:EOLhyphen"/>acted, That the Perſon who Pays the ſame into the Exchequer, or to any Receivers or Collectors, for any Aids, Taxes or Revenues, ſhall, at the time of ma<g ref="char:EOLhyphen"/>king ſuch Payment, put his Name to the ſaid Bill, and Write the Day of the Month; to which Day the Collector, or other Perſon who Receives the ſame to Our Vſe, ſhall be Allowed again the Intereſt that he ſhall have Allowed thereupon. And when any of the ſaid Bills, which in purſuance of the Act laſt men<g ref="char:EOLhyphen"/>tioned ſhall be Received at the Exchequer, Cuſtom-Houſe, Exciſe-Office, or General Letter-Office, or by any of Our Receivers or Collectors, or for any Re<g ref="char:EOLhyphen"/>venues, Taxes or Supplies, ſhall be Applicable to the Satisfaction of Talleys and Orders of Loan, or to any other Vſes or Payments whatſoever, and by reaſon thereof are not to be immediately Cancelled at the ſaid Exchequer, or in any other Publick Office, then the reſpective Cellers in the Receipt of Our Exchequer, and the Receivers General or Caſhiers of the Cuſtoms, Exciſe and Poſt-Office, or any other Receivers, upon their Iſſuing or Paying out the ſaid Bills, ſhall Sign the ſame, and add the Day of the Month, and ſo <hi>toties quoties</hi> until the ſaid Bills ſhall or may come or be Paid into the Exchequer, on Account of the Proper Funds or Supplies (upon which they are or ſhall be firſt Iſſued out) to be Cancelled. And to the Intent that ſuch Perſon or Per<g ref="char:EOLhyphen"/>ſons who have or may have or be Intituled to any Talleys or Orders, on any Branch of the Revenues, or on any Aid, Tax or Supply that is or ſhall be Appro<g ref="char:EOLhyphen"/>priated for Repayment and Satisfaction thereof, and ſhall Refuſe or be Vnwilling to Accept the ſaid Bills in Payment, might not be Obliged to Receive the ſame, It is further Enacted, That for the Eaſe, Accommodation and Satisfaction of all and every Perſon and Perſons ſo Refuſing, or being Vnwilling to Receive the ſaid Bills in Repayment of ſuch Talleys and Orders, It ſhould and might be Lawful, to and for the Commiſſioners of Our Treaſury, or any Three of them, to Covenant and Agree, in ſuch manner as they ſhould think fit, with any Perſons, Natives or Foreigners, Bodies Politick or Corporate (with whoſe Abilities they ſhould be well Satisfied) for the immediate Advancing or Lending of Money from time to time as there ſhould be Occaſion, for Ex<g ref="char:EOLhyphen"/>changing ſuch Bills as ſhould be ſo Refuſed, or not Accepted or Taken in Repayment of Talleys and Orders, as aforeſaid; and that ſuch Perſon and Perſons as ſhould ſo Contract and Agree, ſhould immediately upon their Paying or Advancing any Moneys purſuant to their Contracts or Agreements, have for their Security and Satisfaction the ſaid Bills, or ſuch Security as ſhould be Agreed upon between the ſaid Commiſſioners of the Treaſury and the ſaid Con<g ref="char:EOLhyphen"/>tractors, and ſhould alſo Have and Receive, as a further Encouragement, ſuch Intereſt or Reward as is therein mentioned. And it is by the ſaid Act Pro<g ref="char:EOLhyphen"/>vided and Enacted, That until ſuch time as We by Our Royal Proclamation, to be Iſſued by the Advice of Our Privy Council, ſhould be Plea<g ref="char:EOLhyphen"/>ſed to Publiſh and make Known, That the ſaid Commiſſioners of Our Treaſury, or any Three or more of them, or the High Treaſurer for the time being, ſhould (by ſuch Covenants or Agreements made with Perſons of Ability, as aforeſaid) have ſufficiently ſecured and made proviſion, That all Perſons who at the ſaid Receipt of Exchequer, or at any the ſaid Publick Offices, ſhould have any of the ſaid Bills for ſatisfaction of their Talleys or Orders of Loan, or for any other Payments whatſoever, may have ſuch Bills Exchanged for Ready Money, the ſaid Bills to be made forth for the ſaid Fifteen hundred thouſand Pounds, or any part thereof, ſhould be Current only for the Aids, Taxes or Supplies Granted or to be Granted for the Service of the War for the Year One thouſand ſix hundred ninety ſeven, Excluſive of the ſaid Aid of Three Shillings in the Pound, according to the Tenour and true Meaning of the ſaid former Act in that behalf; And that after the ſaid Proclamation ſhould be Iſſued, and not ſooner, the ſaid Bills ſo Authorized to be Iſſued, as aforeſaid, ſhould Paſs and be Current for all Revenues, Aids, Taxes, Supplies or other Payments to Vs, according to the true Meaning of the laſt recited Act; Any thing therein contained to the contrary notwithſtanding, as by the ſaid ſeveral Acts relation being thereunto reſpectively had, may more fully appear. And where<g ref="char:EOLhyphen"/>as the ſaid Commiſſioners of Our Treaſury have, in purſuance of the Power to them given by the Act of Parliament laſt mentioned in this behalf, Contracted and Agreed with ſeveral Perſons and Bodies Politick or Corporate, for the Advancing and Lending of Money from time to time for Exchanging the ſaid Bills; We have therefore thought fit, by and with the Advice of Our Privy Council, to Iſſue this Our Royal Proclamation, and We do hereby Publiſh and Make Known, That the ſaid Commiſſioners of Our Treaſury have by ſuch Agreements, as aforeſaid, ſufficiently ſecured and made proviſion, That all Perſons who at the ſaid Receipt of Exchequer, or at any the ſaid Publick Offices, ſhall have any of the ſaid Bills for ſatisfaction of their Talleys or Orders of Loan, or for any other Payments whatſoever, may have ſuch Bills Exchanged for Ready Money: And therefore We do by this Our Royal Proclamation further Publiſh and De<g ref="char:EOLhyphen"/>clare, That from henceforth the ſaid Bills for the ſaid Sum, not exceeding Fifteen hundred thouſand Pounds, Authorized to be Iſſued, as aforeſaid, ſhall Paſs and be Current in all Payments for Our Cuſtoms, Additional Duties, Impoſitions, Exciſes and all other Our Revenues whatſoever, and for all Taxes, Aids, and Supplies any ways Granted or belonging to Vs, and in all other Payments of what Nature or Kind ſoever to be made to Vs or to Our Vſe. And We do here<g ref="char:EOLhyphen"/>by ſtrictly Charge and Command all Commiſſioners, Receivers General, Collectors, Tellers, and all other Perſons whatſoever, who are or may be concerned in the Receipt, Collection or Levying of any of Our ſaid Cuſtoms, Additional Duties, Impoſitions, Exciſes, Revenues, Taxes, Aids, Supplies or other Pay<g ref="char:EOLhyphen"/>ments whatſoever for Our Vſe, to Accept and Take the ſaid Bills in Payment from all and every Our Loving Subjects who ſhall Tender the ſame for or in Diſcharge of any ſuch Cuſtoms, Additional Duties, Impoſitions, Exciſes, Revenues, Taxes, Aids, Supplies or other Payments to Our Vſe, and to Obſerve all other Directions in the ſaid recited Acts, or either of them Contained, touching the ſaid Bills, upon Pain of Incurring Our High Diſpleaſure, and as they will Anſwer the contrary at their Perils.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Kenſington</hi> 
+                  <date>the Three and twentieth Day of <hi>April,</hi> 1697. In the Ninth Year of Our Reign.</date>
+               </dateline>
+               <lb/> God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd; Printers to the Kings moſt Excellent Majeſty. 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
